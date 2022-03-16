@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647421358 source:c:\users\boldizsar-nagy david\onedrive - technical university of cluj-napoca\desktop\programs\tema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
